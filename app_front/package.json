@@ -6,15 +6,18 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "@material-ui/core": "^4.7.2",
+    "@material-ui/styles": "^4.7.1",
     "bcrypt": "^3.0.7",
     "electron-rebuild": "^1.8.8",
     "eslint-config-react-app": "^5.1.0",
     "gatsby": "^2.18.11",
     "gatsby-image": "^2.2.34",
     "gatsby-plugin-manifest": "^2.2.31",
+    "gatsby-plugin-material-ui": "^2.1.6",
     "gatsby-plugin-offline": "^3.0.27",
     "gatsby-plugin-react-helmet": "^3.1.16",
     "gatsby-plugin-sharp": "^2.2.14",
+    "gatsby-plugin-typography": "^2.3.20",
     "gatsby-source-filesystem": "^2.1.40",
     "gatsby-transformer-sharp": "^2.3.7",
     "graphql": "^14.5.8",
@@ -22,9 +25,12 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-helmet": "^5.2.1",
+    "react-typography": "^0.16.19",
     "sharp": "^0.23.4",
     "surge": "^0.21.3",
-    "typescript": "^3.7.3"
+    "typescript": "^3.7.3",
+    "typography": "^0.16.19",
+    "typography-theme-fairy-gates": "^0.16.19"
   },
   "devDependencies": {
     "eslint": "^6.7.2",
